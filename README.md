@@ -11,3 +11,8 @@ List of items below
 ## Subheader
 
 This is some more text added from local machine
+
+
+## Local Development
+
+1. Open index.html in your  browser
