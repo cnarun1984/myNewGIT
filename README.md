@@ -11,3 +11,7 @@ List of items below
 ## Subheader
 
 This is some more text added from local machine
+
+## Heading for new Feature
+
+There is some text here.
